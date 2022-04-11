@@ -1,5 +1,5 @@
-const contractAddress = "0x52a98E03050F202F74E1143788f9b869da04CF01"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xD71E2e3567B7DBab4Cf66313c45352cF608f6408"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Breath tooker NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
